@@ -1,3 +1,5 @@
+This module based on noam148/yii2-image-manager
+
 !!! Sorry, the module is no longer maintained by me anymore !!!
 -
 !!! Feel free to further develop the module !!!
